@@ -17,6 +17,7 @@
          aws_secret_key: "{{ aws_secret }}"
          key_name: "{{ keypair }}"
          group: default
+         count: 2
          instance_type: "{{ instance_type }}"
          image: "{{ image }}"
          wait: true
