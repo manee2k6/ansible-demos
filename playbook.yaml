@@ -4,8 +4,8 @@
   hosts: localhost
   gather_facts: False
   vars:
-    aws_access: AKIAJ6O23LQBZBJBOVNQ
-    aws_secret: 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
+    aws_access: 
+    aws_secret: 
     keypair: DK-Practise 
     instance_type: t2.micro
     image: ami-10547475
