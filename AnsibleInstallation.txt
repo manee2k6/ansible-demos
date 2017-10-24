@@ -130,4 +130,5 @@ keep playbook within respository
 execute playbook via jenkins Job
 
 https://dzone.com/articles/running-ansible-playbooks-from-jenkins
+http://www.bogotobogo.com/DevOps/DevOps_Jenkins_Chef_Puppet_Graphite_Logstash.php
 
